@@ -11,14 +11,12 @@ Table Of Contents:
 02. Preloader
 03. Navigation
 04. Header
-05. Features
 06. Video
 07. Details 1
 08. Details 2
 09. Details Lightboxes
 10. Screenshots
 11. Download
-12. Statistics
 13. Contact
 14. Footer
 15. Copyright
@@ -1313,6 +1311,7 @@ input[type='checkbox'] {
 .footer {
 	padding-top: 5rem;
 	background-color: #262431;
+	text-align: center;
 }
 
 .footer .footer-col {
@@ -1726,7 +1725,7 @@ a:hover.back-to-top {
 	.header .header-content {
 		padding-top: 13rem;
 		padding-bottom: 10rem;
-		text-align: left;
+		text-align: center;
 	}
 
 	.header .text-container {
